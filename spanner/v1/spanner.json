@@ -1,0 +1,8 @@
+{
+  "spannerTests": [
+    {
+      "description": "Simple read only transaction",
+      "tableName": "Singers"
+    }
+  ]
+}
